@@ -1,0 +1,1 @@
+jupyter nbconvert --to markdown --output-dir `pwd` --output ReadMe.md notebooks/example.ipynb
